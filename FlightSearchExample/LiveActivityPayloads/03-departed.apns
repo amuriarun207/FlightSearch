@@ -1,0 +1,18 @@
+{
+  "Simulator Target Bundle": "com.learning.FlightSearchExample",
+  "aps": {
+    "timestamp": 1794761902,
+    "event": "update",
+    "content-state": {
+      "phase": "departed",
+      "gate": "A12",
+      "terminal": "3",
+      "delayMinutes": 0,
+      "progress": 0.5
+    },
+    "alert": {
+      "title": "FS412 departed",
+      "body": "Left gate A12."
+    }
+  }
+}

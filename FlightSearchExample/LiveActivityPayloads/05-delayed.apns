@@ -1,0 +1,18 @@
+{
+  "Simulator Target Bundle": "com.learning.FlightSearchExample",
+  "aps": {
+    "timestamp": 1794762022,
+    "event": "update",
+    "content-state": {
+      "phase": "delayed",
+      "gate": "B7",
+      "terminal": "1",
+      "delayMinutes": 40,
+      "progress": 0.25
+    },
+    "alert": {
+      "title": "FS412 delayed 40 min",
+      "body": "New gate B7, Terminal 1."
+    }
+  }
+}

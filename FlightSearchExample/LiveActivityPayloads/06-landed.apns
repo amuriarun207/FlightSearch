@@ -1,0 +1,19 @@
+{
+  "Simulator Target Bundle": "com.learning.FlightSearchExample",
+  "aps": {
+    "timestamp": 1794762082,
+    "event": "end",
+    "dismissal-date": 1794762982,
+    "content-state": {
+      "phase": "landed",
+      "gate": "C18",
+      "terminal": "5",
+      "delayMinutes": 0,
+      "progress": 1
+    },
+    "alert": {
+      "title": "FS412 landed",
+      "body": "Arrival gate C18, Terminal 5."
+    }
+  }
+}

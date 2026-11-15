@@ -1,0 +1,18 @@
+{
+  "Simulator Target Bundle": "com.learning.FlightSearchExample",
+  "aps": {
+    "timestamp": 1794761842,
+    "event": "update",
+    "content-state": {
+      "phase": "boarding",
+      "gate": "A12",
+      "terminal": "3",
+      "delayMinutes": 0,
+      "progress": 0.25
+    },
+    "alert": {
+      "title": "FS412 boarding",
+      "body": "Gate A12, Terminal 3."
+    }
+  }
+}

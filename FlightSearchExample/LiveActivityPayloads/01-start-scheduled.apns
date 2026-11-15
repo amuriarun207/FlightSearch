@@ -1,0 +1,28 @@
+{
+  "Simulator Target Bundle": "com.learning.FlightSearchExample",
+  "aps": {
+    "timestamp": 1794761782,
+    "event": "start",
+    "attributes-type": "FlightActivityAttributes",
+    "attributes": {
+      "flightNumber": "FS412",
+      "originCode": "DXB",
+      "originCity": "Dubai",
+      "destinationCode": "LHR",
+      "destinationCity": "London",
+      "scheduledDeparture": 1795000000,
+      "scheduledArrival": 1795021600
+    },
+    "content-state": {
+      "phase": "scheduled",
+      "gate": "A12",
+      "terminal": "3",
+      "delayMinutes": 0,
+      "progress": 0
+    },
+    "alert": {
+      "title": "FS412 scheduled",
+      "body": "Dubai to London. Gate A12, Terminal 3."
+    }
+  }
+}
